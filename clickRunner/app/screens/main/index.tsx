@@ -1,14 +1,13 @@
-import React from 'react';
-import View from 'Reac'
+import React from "react";
+import {Text, View} from "react-native";
 
-const Main = ()=>{
-
-    return(
-      <View>
-          <Text>
-              Hello
-          </Text>
-      </View>
-    );
+const Main = (props)=>{
+    return (
+        <View>
+            <Text>
+                hello
+            </Text>
+        </View>
+    )
 };
-export default Main;
+export default Main
