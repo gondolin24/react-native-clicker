@@ -12,6 +12,7 @@
   "dependencies": {
     "@types/react": "^16.9.15",
     "@types/react-native": "^0.60.24",
+    "native-base": "^2.13.8",
     "react": "16.9.0",
     "react-native": "0.61.5"
   },
