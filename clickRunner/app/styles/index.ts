@@ -16,5 +16,4 @@ export const TYPOGRAPHY =
 
 export const COLOR =
     {
-
     };
